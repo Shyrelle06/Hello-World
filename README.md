@@ -1,6 +1,8 @@
 # Hello-World 
+<DOCTYPE! html>
+<html>
+  <body>
+    <h1>Shyrelle Shine L. Managaytay</h1>
+  </body>
+</html>
 
-hello!
-
-I like furry dogs and i talk to them sometimes. 
-I also love rainy weather. 
